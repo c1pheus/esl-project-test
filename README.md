@@ -1,2 +1,25 @@
-# esl-project-test
-Test project for ESL course in DSR Corporation.
+
+
+## Build
+
+```bash
+make
+```
+
+## Run
+
+```bash
+./program
+```
+
+## Clean
+
+```bash
+make clean
+```
+
+## Requirements
+
+- GCC
+- GNU Make
+
