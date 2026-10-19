@@ -9,7 +9,7 @@ make
 ## Run
 
 ```bash
-./program
+./test
 ```
 
 ## Clean
